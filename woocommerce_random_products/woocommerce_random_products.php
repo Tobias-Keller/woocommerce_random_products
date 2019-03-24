@@ -5,6 +5,7 @@ Plugin URI: https://tobier.de
 Description: create random products for woocommerce
 Version: 0.1.0
 */
+defined( 'ABSPATH' ) || die();
 
 $createProducts = new woocommerce_random_products();
 
