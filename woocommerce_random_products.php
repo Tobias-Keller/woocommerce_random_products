@@ -15,7 +15,7 @@ defined( 'ABSPATH' ) || die();
 require_once plugin_dir_path( __FILE__ ) . 'lib/wp-package-updater/class-wp-package-updater.php';
 
 $tobier_updater = new WP_Package_Updater(
- 	'https://plugin.tobier.de',
+ 	'https://plugins.tobier.de',
  	wp_normalize_path( __FILE__ ),
 	wp_normalize_path( plugin_dir_path( __FILE__ ) )
 );
