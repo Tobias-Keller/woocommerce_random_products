@@ -1,10 +1,14 @@
 <?php
 /*
 Plugin Name: Woocommerce random products
-Plugin URI: https://plugin.tobier.de
-Author URI:   https://tobier.de
+Plugin URI: https://plugins.tobier.de
+Author URI: https://tobier.de
 Description: create random products for woocommerce
-Version: 0.1.2
+Version: 0.1.3
+Icon1x: http://plugins.tobier.de/wp-content/uploads/2020/09/icon-128x128-1.png
+Icon2x: http://plugins.tobier.de/wp-content/uploads/2020/09/icon-256x256-1.png
+BannerHigh: http://plugins.tobier.de/wp-content/uploads/2020/09/banner-1544x500-1.png
+BannerLow: http://plugins.tobier.de/wp-content/uploads/2020/09/banner-772x250-1.png
 */
 defined( 'ABSPATH' ) || die();
 
