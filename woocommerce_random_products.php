@@ -4,7 +4,7 @@ Plugin Name: Woocommerce random products
 Plugin URI: https://plugin.tobier.de
 Author URI:   https://tobier.de
 Description: create random products for woocommerce
-Version: 0.1.0
+Version: 0.1.1
 */
 defined( 'ABSPATH' ) || die();
 
