@@ -1,15 +1,20 @@
 <?php
 /*
 Plugin Name: Woocommerce random products
+Version: 0.1.3
+Requires at least: 5.5.0
+Requires PHP: 7.0
 Plugin URI: https://plugins.tobier.de
 Author: Tobias Keller
 Author URI: https://tobier.de
 Description: create random products for woocommerce
-Version: 0.1.3
+Details URI: https://plugins.tobier.de/wp-content/uploads/2020/09/randomProducts.md
 Icon1x: https://plugins.tobier.de/wp-content/uploads/2020/09/icon-128x128-1.png
 Icon2x: https://plugins.tobier.de/wp-content/uploads/2020/09/icon-256x256-1.png
 BannerHigh: https://plugins.tobier.de/wp-content/uploads/2020/09/banner-1544x500-1.png
 BannerLow: https://plugins.tobier.de/wp-content/uploads/2020/09/banner-772x250-1.png
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
 defined( 'ABSPATH' ) || die();
 
