@@ -8,6 +8,14 @@ Version: 0.1.0
 */
 defined( 'ABSPATH' ) || die();
 
+require_once plugin_dir_path( __FILE__ ) . 'lib/wp-package-updater/class-wp-package-updater.php';
+
+$prefix_updater = new WP_Package_Updater(
+ 	'https://plugin.tobier.de',
+ 	wp_normalize_path( __FILE__ ),
+	wp_normalize_path( plugin_dir_path( __FILE__ ) )
+);
+
 $createProducts = new woocommerce_random_products();
 
 class woocommerce_random_products {
