@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Woocommerce random products
-Version: 0.1.5
+Version: 0.1.6
 Requires at least: 5.5.0
 Requires PHP: 7.0
 Plugin URI: https://plugins.tobier.de
