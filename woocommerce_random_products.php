@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Woocommerce random products
-Version: 0.1.3
+Version: 0.1.4
 Requires at least: 5.5.0
 Requires PHP: 7.0
 Plugin URI: https://plugins.tobier.de
 Author: Tobias Keller
 Author URI: https://tobier.de
 Description: create random products for woocommerce
-Details URI: https://plugins.tobier.de/wp-content/uploads/2020/09/randomProducts.md
+Details URI: https://plugins.tobier.de/wp-content/uploads/2020/09/wrpReadme.txt
 Icon1x: https://plugins.tobier.de/wp-content/uploads/2020/09/icon-128x128-1.png
 Icon2x: https://plugins.tobier.de/wp-content/uploads/2020/09/icon-256x256-1.png
 BannerHigh: https://plugins.tobier.de/wp-content/uploads/2020/09/banner-1544x500-1.png
